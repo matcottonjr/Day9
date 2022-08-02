@@ -1,0 +1,14 @@
+nav {
+    background-color: aqua;
+    height: 25px;
+}
+
+li {
+    display: inline-block;
+}
+
+section {
+    float: left;
+    width: 31%;
+    margin: 1%;
+}
